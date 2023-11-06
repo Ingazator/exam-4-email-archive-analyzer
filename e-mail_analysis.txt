@@ -1,0 +1,12 @@
+Email Analysis Results:
+Total Emails: 4
+
+Domain Statistics:
+alice.smith: 1
+example.org: 1
+company.com: 1
+partnership.com: 1
+admin: 1
+marketing_team: 1
+user123: 1
+example.com: 1
