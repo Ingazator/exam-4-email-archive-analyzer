@@ -1,0 +1,22 @@
+нояб. 06, 2023 5:44:10 PM EmailAnalysis main
+SEVERE: An error occurred during email analysis.
+java.io.FileNotFoundException: email.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:106)
+	at java.base/java.io.FileReader.<init>(FileReader.java:60)
+	at EmailAnalysis.main(EmailAnalysis.java:35)
+
+нояб. 06, 2023 5:45:13 PM EmailAnalysis main
+SEVERE: An error occurred during email analysis.
+java.io.FileNotFoundException: email.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:106)
+	at java.base/java.io.FileReader.<init>(FileReader.java:60)
+	at EmailAnalysis.main(EmailAnalysis.java:35)
+
+нояб. 06, 2023 5:45:47 PM EmailAnalysis main
+INFO: Email analysis completed successfully.
